@@ -1,4 +1,4 @@
-# Hi there, I am Adityawardhan Mishra
+#Hi there, I am Adityawardhan Mishra
 ### UnderGrad Student at Unitedworld School of Computational Intelligence
 
 - 🔭 I’m currently working on [Sentiment Analysis](https://github.com/adityawardhanm/Sentiment-Analysis), [Advanced Java](https://github.com/adityawardhanm/Advanced-Java-Work) and [UniWork](https://github.com/adityawardhanm/UniWork).
