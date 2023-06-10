@@ -14,7 +14,7 @@
 
 ### My Github Stats
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=adityawardhanm&theme=gotham&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=adityawardhanm&langs_count=10&theme=gotham&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityawardhanm&theme=gotham&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
