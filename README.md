@@ -1,7 +1,7 @@
 # Hi there, I am Adityawardhan Mishra
 ### UnderGrad Student at Unitedworld School of Computational Intelligence
 
-- 🔭 I’m currently working on [Sentiment Analysis](https://github.com/adityawardhanm/Sentiment-Analysis), [Advanced Java](https://github.com/adityawardhanm/Advanced-Java-Work) and [UniWork](https://github.com/adityawardhanm/UniWork).
+- 🔭 I’m currently working on [Sentiment Analysis](https://github.com/adityawardhanm/Sentiment-Analysis) and [UniWork](https://github.com/adityawardhanm/UniWork).
 - 🌱 I’m currently learning Google Cloud Platform, Flutter and Keras.
 - 👯 I’m looking to collaborate on Tensorflow and Java Projects
 - 🤔 I’m looking for help with Code Debugging and Documentation.
