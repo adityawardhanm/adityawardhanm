@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning Google Cloud Platform, Flutter and Keras.
 - 👯 I’m looking to collaborate on Tensorflow and Java Projects
 - 🤔 I’m looking for help with Code Debugging and Documentation.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityawardhan-mishra/) / [Gmail](mailto:adityawardhanm@gmail.com)
-
-### Task Board
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityawardhan-mishra/) or mail me on adityawardhanm@gmail.com
 
 - Working on creating README files for UniWork repository.
 - Uploading C programs from Data Structures and Algorithms Course.[Done]
