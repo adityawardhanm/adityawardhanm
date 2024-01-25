@@ -17,6 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityawardhanm&theme=gotham&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityawardhanm&theme=gotham&card_width=500" alt="adityawardhanm" />
-</p>
