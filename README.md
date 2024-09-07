@@ -17,3 +17,8 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityawardhanm&theme=gotham&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
 </p>
+
+### My Roadmap.sh Stats
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66dc7ca4c46f68d052cc352f?variant=dark&roadmaps=linux)](https://roadmap.sh)
+
