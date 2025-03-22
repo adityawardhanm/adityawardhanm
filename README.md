@@ -1,6 +1,4 @@
-# (つ≧▽≦)つ 
-
-# Hey, I am Aditya
+# (つ≧▽≦)つ - Hi, I am Aditya
 
 ###  ML Engineer | MLOps Engineer | A.I. Researcher
 
