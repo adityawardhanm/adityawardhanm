@@ -19,3 +19,5 @@
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityawardhanm&theme=dark&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
 </p>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/66dc7ca4c46f68d052cc352f?variant=dark&roadmaps=cpp%2Ccomputer-science%2Csql%2Cpython)](https://roadmap.sh)
+</p>
