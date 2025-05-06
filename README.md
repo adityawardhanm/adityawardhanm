@@ -19,7 +19,7 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/66dc7ca4c46f68d052cc352f?variant=dark&roadmaps=cpp%2Csql%2Cpython)](https://roadmap.sh)
 </p>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=adityawardhanm&langs_count=10&theme=dark&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=adityawardhanm&langs_count=10&theme=shadow_red&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityawardhanm&theme=dark&show_icons=true&locale=en&card_width=500" alt="adityawardhanm" />
